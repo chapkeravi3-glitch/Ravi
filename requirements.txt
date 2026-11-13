@@ -1,0 +1,6 @@
+streamlit
+requests
+edge-tts
+Pillow
+# सिर्फ़ तब, जब "सटीक फ़ोटो चुनना (CLIP)" इस्तेमाल करना हो (अपने लैपटॉप पर):
+# sentence-transformers
